@@ -1,0 +1,21 @@
+Number Estimators,Max Features,Criterion,Bootstrap,Average Accuracy,Average Runtime
+50,log2,gini,False,0.31852,5.6481
+100,log2,gini,False,0.34056,10.77951
+150,log2,gini,False,0.34848,15.88193
+200,log2,gini,False,0.35214,21.24472
+250,log2,gini,False,0.35556,26.14892
+300,log2,gini,False,0.36058,31.72977
+350,log2,gini,False,0.35962,36.63745
+400,log2,gini,False,0.3636,41.7928
+450,log2,gini,False,0.36432,47.16175
+500,log2,gini,False,0.36444,52.1212
+550,log2,gini,False,0.3662,57.5559
+600,log2,gini,False,0.36618,62.57865
+650,log2,gini,False,0.3673,67.53469
+700,log2,gini,False,0.36768,73.04351
+750,log2,gini,False,0.36814,78.25412
+800,log2,gini,False,0.36922,85.15826
+850,log2,gini,False,0.36862,88.43943
+900,log2,gini,False,0.36804,94.38791
+950,log2,gini,False,0.36974,99.39347
+1000,log2,gini,False,0.36934,108.66566
