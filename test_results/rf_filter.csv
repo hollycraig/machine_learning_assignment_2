@@ -1,0 +1,6 @@
+Number Estimators,Max Features,Criterion,Bootstrap,Technique,Average Accuracy,Average Runtime
+100,log2,gini,False,none,0.3376,10.80175
+100,log2,gini,False,grayscale,0.26662,9.42449
+100,log2,gini,False,hist equalization,0.31048,10.79869
+100,log2,gini,False,adaptive equalization,0.25054,10.52054
+100,log2,gini,False,canny,0.07188,4.4566

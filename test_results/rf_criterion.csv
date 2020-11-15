@@ -1,0 +1,3 @@
+Number Estimators,Max Features,Criterion,Bootstrap,Average Accuracy,Average Runtime
+100,log2,gini,False,0.33766,10.59134
+100,log2,entropy,False,0.32962,25.12518
