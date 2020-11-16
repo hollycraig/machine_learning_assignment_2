@@ -1,0 +1,5 @@
+1st Activation Function,2nd Activation Function,Loss Function,Learning Rate,Optimiser,Momentum,Decay,Epochs,Number Hidden Units,Average Accuracy,Average Runtime
+relu,softmax,sparse_categorical_crossentropy,0.001,Adam,0.9,1e-06,20,256,0.05497,42.31746
+relu,softmax,sparse_categorical_crossentropy,0.001,Adam,0.9,1e-06,20,256,0.07197,43.86213
+relu,softmax,sparse_categorical_crossentropy,0.001,Adam,0.9,1e-06,20,256,0.06097,42.07468
+relu,softmax,sparse_categorical_crossentropy,0.001,Adam,0.9,1e-06,20,256,0.19113,42.00632
