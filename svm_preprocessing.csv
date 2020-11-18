@@ -1,0 +1,5 @@
+Preprocessing Techniques ,Average Accuracy
+None,21.64
+Hist Equalisation,21.78
+Adapt Equalisation,21.65
+Autoencoder,5.24
